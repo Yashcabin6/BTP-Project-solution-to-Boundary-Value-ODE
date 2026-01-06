@@ -21,6 +21,9 @@ Code for calculations of the point form estimate of the solution
 a1_bound_calculation_code.jl    
 Julia code for estimating the bounds of a1 for lower bound calculations
 
+/Proofs and Code Snippets/Method 1 & 2 of Brahistochrone approximation.pdf
+explanation for the 2 methods used for Brachistochrone approximation
+
 /Proofs and Code Snippets   
 contains additionals relevant results
 
@@ -46,4 +49,4 @@ using Pluto
 Pluto.run()
 This opens Pluto in your browser.
 
-Click "Open from file" and select:
+Click "Open from file" and select
